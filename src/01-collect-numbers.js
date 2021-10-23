@@ -5,7 +5,7 @@
  * Important! You'll never know how many time the returned function will be called,
  * so make it generic.
  *
- * Additional points for O(n) solution.
+ * Can you find O(n) solution?
  *
  * @param {Array} arr
  * @return {Function}
