@@ -47,7 +47,7 @@ Hope you will enjoy it!
 4. Press submit button and enjoy
 
 ## Notes
-* We recommend you to use nodejs of the latest LTS version 12. If you using any of features that does not supported by node `v12`, score won't be submitted.
+* We recommend you to use nodejs of version 12. If you using any of features that does not supported by node `v12`, score won't be submitted.
 * Please be sure that each of your test in limit of 30sec.
 * You will get 0 (zero) if you have any eslint's errors or warnings.
 * Try to solve the task in the most optimal way and without cheating, it will give you additional points and higher rating.
